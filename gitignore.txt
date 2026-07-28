@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MicroPython & IDE / Board temporary files
+.mp/
+.rshell/
+.mpy/
+*.mpy
+.ampy/
+ampy.log
+
+# Editor & IDE settings
+# Thonny IDE
+.thonny/
+thonny.ini
+
+# VS Code / MicroPico extension
+.vscode/
+*.code-workspace
+
+# PyCharm / JetBrains
+.idea/
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Local archives and build output
+*.zip
+*.tar.gz
+*.7z
